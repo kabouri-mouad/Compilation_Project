@@ -9,6 +9,6 @@ I have decided to write a new simple compiler. It is known for being straightfor
 
 ## How to run this project in your local machine
 
-First, you need to install C/C++ IDE like Code::Blocks, after upload this three files in this IDE with a file txt contains a test for example :
+First, you need to install a C/C++ IDE such as Code::Blocks. After installation, you can upload these three files to the IDE along with a text file containing a test example like this:
 
 ![Test!](test.PNG)

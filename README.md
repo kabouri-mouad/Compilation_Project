@@ -6,3 +6,7 @@ I have decided to write a new simple compiler. It is known for being straightfor
 * compiler.c contains the main function.
 * fonctions.h provides global variables as well as prototypes of all the functions.
 * fonctions.c contains the definition of functions.
+
+## How to run this project in your local machine
+
+First, you need to install C/C++ IDE like Code::Blocks, after upload this three files in this IDE with a file txt contains a test for example :
